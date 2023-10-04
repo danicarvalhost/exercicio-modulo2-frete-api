@@ -102,4 +102,4 @@ Para calcular o frete de um produto, substitua `:idProduto` pelo ID do produto d
 
 3. Envie a solicitação e você receberá o cálculo do frete com base nas regras específicas.
 
-Certifique-se de ajustar as rotas e valores conforme necessário com base no seu projeto.
+Obrigada por verificar este projeto! Espero que seja útil para você.
