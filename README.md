@@ -1,7 +1,5 @@
 # exercicio-modulo2-frete-api 
 
-# Exercício da Cubos Academy - Módulo 2
-
 Este repositório contém um exercício prático realizado durante o módulo 02 do curso da Cubos Academy, que abordou o desenvolvimento de APIs REST. O exercício se concentrou na criação de uma API para calcular o frete de produtos com base em regras específicas.
 
 ## Descrição do Exercício
